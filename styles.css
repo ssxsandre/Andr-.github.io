@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #948585;
+}
+
+header {
+    background-color: #ffffff;
+    color: rgb(22, 170, 62);
+    text-align: center;
+    padding: 1em;
+}
+
+.recipe {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: rgb(241, 214, 93);
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/*img {
+    max-width: 100%;
+    height: auto;
+}*/
+
+/* Adicione mais estilos conforme necessário */
